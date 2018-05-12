@@ -1,0 +1,6 @@
+D:\CsharpProjects\CmdCalc\CmdCalc\obj\Debug\CmdCalc.csprojAssemblyReference.cache
+D:\CsharpProjects\CmdCalc\CmdCalc\obj\Debug\CmdCalc.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\CmdCalc\CmdCalc\bin\Debug\CmdCalc.exe
+D:\CsharpProjects\CmdCalc\CmdCalc\bin\Debug\CmdCalc.pdb
+D:\CsharpProjects\CmdCalc\CmdCalc\obj\Debug\CmdCalc.exe
+D:\CsharpProjects\CmdCalc\CmdCalc\obj\Debug\CmdCalc.pdb
